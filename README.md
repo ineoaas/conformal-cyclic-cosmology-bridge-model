@@ -1,22 +1,26 @@
-This project is a Python-based mathematical model of the **Infinite Universe Cycle** (Conformal Cyclic Cosmology). It explores the transition between cosmic aeons, treating the universe not as a one-time event, but as a self-sustaining physical system.
+# A Conformal Cyclic Cosmology Simulation
 
-## 💡 The Inspiration: From Belief to Logic
+This repository contains a Python-based mathematical model of the Infinite Universe Cycle, specifically exploring the framework of Conformal Cyclic Cosmology (CCC). The project simulates the transition between cosmic aeons, examining the universe as a self-sustaining physical system governed by logic and chemical processes.
 
-My journey into this research began with a shift in perspective:
-1. **Deconstructing Tradition:** Moving away from religious explanations toward a framework grounded in **chemistry, physics, and logic**. 
-2. **The AI Lens:** I became fascinated by the possibility of the universe being a "recurrent system." If intelligence can be modeled and reset, why not the universe itself?
-3. **The ICT Ambition:** As an ICT major at Fontys University Eindhoven, my goal is to develop AI that serves as a tool for discovery rather than a weapon. I believe that by scaling AI responsibly, we can finally solve the mathematical puzzles (like entropy and the Big Bang) that have eluded human researchers for centuries.
+## Inspiration and Background
 
-## 🛠️ The Simulation Logic
-The core of this project is the **Aeon Transition**. 
-- It simulates the exponential expansion of space using the **Friedmann Equations**.
-- It implements a **Conformal Rescaling** function that bridges the "infinite future" of one aeon into the "Big Bang" of the next.
-- It provides a testing ground for how **Information Residue** (entropy) might carry over across cycles.
+This research is rooted in an interest in the intellectual debate between theism and atheism. As a lifelong atheist, my approach is grounded in the belief that the mysteries of existence are best solved through physics, chemistry, and computational logic rather than traditional doctrine. 
 
-## 🛡️ Ethics and AI Alignment
-This project is built with the philosophy that AI should be a "Guardrail for Humanity." By using AI to simulate the most complex system in existence—the Universe—we can learn how to build safer, more aligned models that prioritize logic, sustainability, and life.
+My inspiration evolved through three primary stages:
+1. **Intellectual Inquiry:** Analyzing the theism vs. atheism debate led to a fascination with the "First Cause" problem and the search for a purely logical, infinite model of the universe.
+2. **Computational Logic:** Recognizing that if the universe can be modeled as a recurrent system, then intelligence and AI are the ideal tools to test the validity of these cycles.
+3. **Responsible AI Development:** As an ICT major at Fontys University Eindhoven, I am committed to developing AI that serves as a tool for scientific discovery. My objective is to build systems that prioritize transparency and safety, ensuring that AI remains a benefit to humanity rather than a weapon of mass destruction.
 
-## 🔧 Tech Stack
-- **Python:** Core simulation engine.
-- **NumPy & Matplotlib:** Mathematical analysis and visualization.
-- **Google Colab:** Initial research environment.
+## Simulation Framework
+The simulation utilizes the Friedmann Equations to model cosmic expansion and implements the following core concepts:
+- **Exponential Expansion:** Modeling the role of Dark Energy in the late-stage universe.
+- **The Massless Limit:** Simulating the decay of matter to radiation, a prerequisite for the CCC transition.
+- **Conformal Rescaling:** Mathematically bridging the infinite future of one aeon into the initial conditions of a subsequent Big Bang.
+
+## Research Objectives
+The primary goal of this project is to create a testing ground for entropy carryover and information residue across cosmic cycles. By simulating these transitions, we can better understand how to align complex AI models with the fundamental laws of nature.
+
+## Technical Specifications
+- **Language:** Python
+- **Libraries:** NumPy, Matplotlib
+- **Environment:** Compatible with Google Colab and local Python 3.x installations.
